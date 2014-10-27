@@ -1,0 +1,26 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+Application: Room Allocation Portal
+Demo Site: http://web.iiit.ac.in/~room_allocation/SSAD
+Mailing list: ra_ssad@googlegroups.com
+Creator: Ankush Jain
+Creator: Nehal J Wani
+Creator: Shubham Sangal
+Creator: Kapil Kumar
+Creator: Navya Raghava
+Creator: E Venkatesh
+Creator: J N Venkatesh
+Creator: Sravyasri Garapati
+Creator: Sravya Popuri
+Creator: G V Chaitanya
+Creator: Hardhik Mallipeddi
+Creator: M.Lalit
+Creator: P.Chaitanya
+Creator: Dilip reddy
+
+# TECHNOLOGY COLOPHON
+UI: HTML5, CSS3, Javascript, jQuery
+Server side: PHP
+Database: MySQL
